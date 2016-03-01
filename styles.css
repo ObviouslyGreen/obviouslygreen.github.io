@@ -38,14 +38,14 @@
   margin-top: 16px;
 }
 
-.site-content p {
-  margin-left: 40px;
-}
-
 .site-content table{
   border: 0
 }
 
 .site-content td{
   border:0
+}
+
+.list-item {
+    width: calc(100% - 16px);
 }
